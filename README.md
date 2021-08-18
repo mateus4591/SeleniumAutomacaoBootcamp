@@ -1,2 +1,2 @@
 # SeleniumAutomacaoBootcamp
-Automação web em selenium, com validação da adição do endereço na conta
+Automação web em selenium, implementando o teste de adicionar endereço novo na conta, além de 2 classes de teste para validar a automação
